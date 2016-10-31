@@ -1,7 +1,7 @@
 # hellovr
 
 ## About
-This is a Hello World/Demo of a VR application. It showcause basic vr application features.
+This is a Hello World/Demo of a VR application. It showcases basic vr application features.
 
 ## Installation
 Copy the apk file to an android device/emulator and install.
